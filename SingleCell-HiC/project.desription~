@@ -1,7 +1,7 @@
 Cell-cycle dynamic analysis using existing software
 software lists: 
 	map matrix analysis software:
-		HiCRep : R library
+		HiCRep
 		GenomeDISCO
 		HiC-Spector 
 		CDP-JSD 
