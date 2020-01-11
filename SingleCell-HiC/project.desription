@@ -1,0 +1,8 @@
+Cell-cycle dynamic analysis using existing software
+software lists: 
+	map matrix analysis software:
+		HiCRep
+		GenomeDISCO
+		HiC-Spector 
+		CDP-JSD 
+	MDS(MultiDimentional Scaling):a distance-presering approach
